@@ -11,4 +11,5 @@ permalink: first
   
 
 First post
+Updated from Obsidian
 
